@@ -8,7 +8,7 @@ import br.com.alura.loja.dao.CategoriaDAO;
 import br.com.alura.loja.dao.ProdutoDAO;
 import br.com.alura.loja.modelo.Categoria;
 import br.com.alura.loja.modelo.Produto;
-import br.com.alura.loja.utli.JPAUtil;
+import br.com.alura.loja.util.JPAUtil;
 
 public class CadastroDeProduto {
 
